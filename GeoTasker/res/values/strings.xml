@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoTasker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="none">No Map</string>
+    <string name="current">Current Location</string>
+    <string name="traffic">Show/Hide Traffic Conditions</string>
+    <string name="exit">Exit</string>
+    <string name="but_todo">To Do</string>
+    <string name="but_addposition">Add Position</string>
+    <string name="title_activity_add_position">AddPosition</string>
+    <string name="title_activity_to_do_list">ToDoList</string>
+    <string name="ToDo_Text">Your nearest task will be displayed here</string>
+    
+    <string name="add_position_activity_header">Add New GeoTask</string>
+    <string name="add_position_activity_input_title">Title</string>
+    <string name="add_position_activity_input_task">Task</string>
+    <string name="add_position_activity_button_cancel">Cancel</string>
+    <string name="add_position_activity_button_save">Save</string>
+    
+    <!-- content descriptions (not really that important) -->
+    <string name="image_delete">Delete</string>
+
+</resources>
